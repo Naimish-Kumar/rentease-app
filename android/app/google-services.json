@@ -12,7 +12,20 @@
           "package_name": "com.rentease.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "717495729328-26q69spflo6c69arb18o0bm2ltoei919.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentease.app",
+            "certificate_hash": "de0c6e6b914250efabb29b50fd3d117941a539a4"
+          }
+        },
+        {
+          "client_id": "717495729328-9oum28t5g28a0j2a8asn5o4dlrjo1sri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBMfjHHvM2tZv40NRIWrJYwCCrd6k7TvJg"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717495729328-9oum28t5g28a0j2a8asn5o4dlrjo1sri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717495729328-kbpiribnj16s4jc1aetf7lp5s0u10n55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rentease.app"
+              }
+            }
+          ]
         }
       }
     }
