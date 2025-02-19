@@ -1,10 +1,8 @@
-import 'package:ebroker/app/register_cubits.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/chat_audio/globals.dart';
-import 'package:ebroker/ui/screens/chat_new/message_types/registerar.dart';
+import 'package:rentease/app/register_cubits.dart';
+import 'package:rentease/exports/main_export.dart';
+import 'package:rentease/ui/screens/chat/chat_audio/globals.dart';
+import 'package:rentease/ui/screens/chat_new/message_types/registerar.dart';
 import 'package:flutter/material.dart';
-
-
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

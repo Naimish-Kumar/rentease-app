@@ -1,0 +1,16 @@
+
+node_modules/
+dist/
+.env
+.DS_Store
+coverage/
+*.log
+.idea/
+.vscode/
+.kotlin/
+.dart_tool/
+*.swp
+*.swo
+build/
+tmp/
+temp/

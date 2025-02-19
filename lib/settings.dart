@@ -8,7 +8,7 @@ class AppSettings {
 
   ///API Setting
   ///emulator base url
-  static const String hostUrl = "https:/rentease.wrteam.me/";
+  static const String hostUrl = "https://ebroker.wrteam.me/";
   // rentease.wrteam.me
   static const int apiDataLoadLimit = 10;
   static const int maxCategoryShowLengthInHomeScreen = 5;
